@@ -1,0 +1,9 @@
+#cs project file
+*.csproj
+*.sln
+*.unityproj
+*.userprefs
+
+Temp/
+Library/
+obj/
